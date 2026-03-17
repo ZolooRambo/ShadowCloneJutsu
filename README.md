@@ -20,3 +20,7 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 - GitHub account  
 - Интернэт холболт  
 
+## Branch дээр хийсэн өөрчлөлт
+
+Энэ хэсгийг feature-readme branch дээр нэмсэн.
+
