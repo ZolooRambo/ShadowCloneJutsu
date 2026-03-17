@@ -24,3 +24,6 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 
 Энэ хэсгийг feature-readme branch дээр нэмсэн.
 
+Нжэр:Золбаяр
+Анги:ПХИ-2
+Мэргэжил:Пхи
